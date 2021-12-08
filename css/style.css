@@ -10,7 +10,7 @@ html {
 }
 
 .body {
-    background-image: url("/images/finance-ga33d0913e_1920.jpg");
+    background-image: url("../images/finance-ga33d0913e_1920.jpg");
     background-size: cover;
     background-position: center;
     display: flex;
