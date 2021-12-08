@@ -1,0 +1,13 @@
+.formElement__button {
+    width: 100px;
+    padding: 5px;
+    background-color: teal;
+    color: white;
+    border-radius: 10px;
+    margin: 0 auto;
+
+}
+
+.formElement__button:hover {
+    background-color: hsl(180, 100%, 30%);
+}
