@@ -4,7 +4,7 @@
 
 In this application you can convert PLN value to three other currencies, russian rubles, brazilian reales and japanese yen.
 
-Exchange rates are based on data from money.pl 
+Exchange rates are based on data from https://www.money.pl/pieniadze/kalkulator/ 
 
 # ![Animation](images/Animation.gif)
 
@@ -14,9 +14,9 @@ https://mieczyslawfrontdev.github.io/currency-calculator/
 
 # Technologies
 
-1. HTML
-2. CSS
-3.Flexbox
-4.Javascript
-5.BEM
-6.ES6+ (Features)
+- HTML
+- CSS
+- Flexbox
+- Javascript
+- BEM
+- ES6+ (Features)
